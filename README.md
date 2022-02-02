@@ -17,5 +17,5 @@ ____
 <div>
   <a href="https://github.com/felipefrm">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=felipefrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrm&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefrm&layout=compact&theme=tokyonight&hide=jupyter%20notebook,shaderlab&langs_count=8"/>
 </div>
